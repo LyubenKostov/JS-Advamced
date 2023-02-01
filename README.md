@@ -1,2 +1,2 @@
-# JS-Advamced
+# JS-Advanced
 JS advanced 
